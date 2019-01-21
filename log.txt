@@ -1,0 +1,236 @@
+User Command: node liri.js spotify-this-song
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-songTheSign
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"I Want it That Way"
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-songSign
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-songSign
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: C:\Program Files\nodejs\node.exe,C:\Users\Antony Liu\Desktop\FullStack\Slack Work\01162019 WED\liri-node-app\liri.js,move-this,Cinderella
+LIRI Response:
+
+Commands:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+
+---------------------------------------------------
+
+Title: Cinderella
+Release Year: 2015
+Rotten Tomatoes Rating: 84%
+IMDB Rating: 6.9
+Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Language: English
+
+---------------------------------------------------
+
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+Country: USA, UK
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Antony Liu\Desktop\FullStack\Slack Work\01162019 WED\liri-node-app\liri.js,watch-this,cindrella
+LIRI Response:
+
+Commands:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this cinderella
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Cinderella
+Year Released: 13 Mar 2015
+IMBD Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, UK
+Language: English
+Plot: A girl named Ella (Cinderella) has the purest heart living in a cruel world filled with evil stepsisters and an evil stepmother out to ruin Ella's life. Ella comes one with her pure heart when she meets the prince and dances her way to a better life with glass shoes, and a little help from her fairy godmother, of course.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+
+User Command: node liri.js movie-this cinderella
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this cinderella
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this cinderella
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Cinderella
+Year Released: 13 Mar 2015
+IMBD Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, UK
+Language: English
+Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+
+User Command: node liri.js movie-this cinderella
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Cinderella
+Year Released: 13 Mar 2015
+IMBD Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, UK
+Language: English
+Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+
+User Command: node liri.js movie-this cinderella
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Cinderella
+Year Released: 13 Mar 2015
+IMBD Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, UK
+Language: English
+Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Antony Liu\Desktop\FullStack\Slack Work\01162019 WED\liri-node-app\liri.js
+LIRI Response:
+
+Commands:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"I Want it That Way"
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: C:\Program Files\nodejs\node.exe,C:\Users\Antony Liu\Desktop\FullStack\Slack Work\01162019 WED\liri-node-app\liri.js,spotifi-this-song
+LIRI Response:
+
+Commands:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-song
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: node liri.js movie-this Cinderella
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Cinderella
+Year Released: 13 Mar 2015
+IMBD Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, UK
+Language: English
+Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Antony Liu\Desktop\FullStack\Slack Work\01162019 WED\liri-node-app\liri.js
+LIRI Response:
+
+Commands:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-songSnow
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not defined
+---------------------------------------------------
+
+Artist: Frank Sinatra
+Song: Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)
+Preview: null
+Album: Christmas Songs By Sinatra
+
+---------------------------------------------------
+
+User Command: node liri.js spotify-this-songsnow
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-songsnow
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-songsnow
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-songsnow
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-song
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js movie-this cinderella
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Cinderella
+Year Released: 13 Mar 2015
+IMBD Rating: 6.9
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, UK
+Language: English
+Plot: A girl named Ella (Cinderella) has the purest heart living in a cruel world filled with evil stepsisters and an evil stepmother out to ruin Ella's life. Ella comes one with her pure heart when she meets the prince and dances her way to a better life with glass shoes, and a little help from her fairy godmother, of course.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+
